@@ -2,7 +2,7 @@
 
 ## About Me
 
-Mechatronics Engineer with experience in Semiconductor Failure Analysis, Data Analytics and Technical Support.
+Mechatronics Engineer and Information Technology with experience in Semiconductor Failure Analysis, Data Analytics and Technical Support.
 
 ## Projects
 
@@ -22,9 +22,10 @@ Analyze semiconductor test and failure data.
 - Python
 - Excel
 - Data Visualization
+- Teaching
 - Semiconductor Failure Analysis
 
 ## Contact
 
-LinkedIn: Coming Soon
+LinkedIn: https://www.linkedin.com/in/nqthinh2609/
 GitHub: https://github.com/quangthinh261999-coder
