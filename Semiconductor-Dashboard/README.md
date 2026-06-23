@@ -38,15 +38,14 @@ This project analyzes semiconductor wafer sensor data to identify factors relate
 - Bad Wafers
 - Yield Rate
 - Quality Distribution
-
+- 
+<img width="1262" height="670" alt="page1_dashboard_overview" src="https://github.com/user-attachments/assets/58f66f7b-26cf-4a22-9e0c-44138e176d81" />
 ### Page 2 - Sensor Analysis
 
 - Top Critical Sensors
 - Sensor-163 Comparison
 - Sensor-298 Comparison
 
-## Screenshots
-<img width="1262" height="670" alt="page1_dashboard_overview" src="https://github.com/user-attachments/assets/58f66f7b-26cf-4a22-9e0c-44138e176d81" />
 <img width="1263" height="663" alt="page2_sensor_analysis" src="https://github.com/user-attachments/assets/46dc1ab8-e87c-4d33-bf5c-8e6fbd46ee00" />
 
 
